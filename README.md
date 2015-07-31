@@ -2,7 +2,7 @@
 **You can export images more quickly!!**
 
 
-This is a script for Adobe illustorator. It allows us to export images more quickly as usual.
+This is a script for Adobe illustrator. It allows us to export images more quickly as usual.
 There are a few ways to export image in illustrator by default. However, these ways take long time to do it, so I decided to develop this script.
 
 ## Installation
@@ -20,6 +20,7 @@ It works by CS6. I'm sure that it can also work in CS5.
 
 ## Usage
 You execute this script, then a modeless dialog will appear.
+![Qucik-exporter main panel](https://raw.github.com/wiki/two-hats/Quick-exporter/images/20150801-01.png)
 
 1. Select an extension (PNG/GIF/SVG) you want to export to in advance.
 2. Select artworks you require.
@@ -29,6 +30,7 @@ That's it. An "images" folder which contains image files will be created on your
 
 ### Options
 It has a few options which are useful for making applications and websites.
+![Qucik-exporter option panel](https://raw.github.com/wiki/two-hats/Quick-exporter/images/20150801-02.png)
 
 * Trimming and adding spaces
 * Exporting for iOS / Android
