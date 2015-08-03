@@ -16,7 +16,7 @@ Windows: C:\Program Files\Adobe\Adobe lllustratorCC2014\Presets\[language]\Scrip
 Mac OS: /Applications/Adobe lllustrator CC 2014/Presets/[language]/Scripts/
 ```
 
-It works by CS6. I'm sure that it can also work in CS5.
+It works in CS6, CC and CC 2014. I'm sure that it can also work in CS5.
 
 ## Usage
 You execute this script, then a modeless dialog will appear.
